@@ -1,5 +1,3 @@
-This is the handout directory for the CS:APP Cache Lab. 
-
 ************************
 Running the autograders:
 ************************
